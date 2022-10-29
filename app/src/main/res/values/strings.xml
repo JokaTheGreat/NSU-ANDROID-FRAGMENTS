@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentApplication</string>
+
+    <string name="first_li">Ohayo</string>
+    <string name="second_li">Konichiwa</string>
+    <string name="third_li">Konbanwa</string>
+
+    <string name="fragment_item_image_description">Cat</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/first_li"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/first_li"/>
+
+    <Button
+        android:id="@+id/second_li"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/second_li"/>
+
+    <Button
+        android:id="@+id/third_li"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/third_li"/>
+
+</LinearLayout>
